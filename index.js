@@ -1,8 +1,8 @@
 var animal = 'dog'
 
-function myAnimal(animal) {
+function myAnimal() {
   var animal = 'cat';// You should not need to modify this function
-  return myanimal(animal)
+  return animal
 }
 
 function yourAnimal() {
